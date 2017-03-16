@@ -1,18 +1,18 @@
 {
-  "name": "terminator-syntax",
-  "theme": "syntax",
-  "version": "0.0.1",
-  "private": false,
-  "description": "A syntax theme compatible with hiperterminator ui",
-  "repository": "https://github.com/ivanhuay/terminator-syntax",
-  "license": "MIT",
-  "engines": {
-    "atom": ">0.50.0"
-  },
-  "keywords": [
-  "red",
-  "terminator",
-  "brian",
-  "hiperterminator"
-],
+    "name": "terminator-syntax",
+    "theme": "syntax",
+    "version": "0.0.1",
+    "private": false,
+    "description": "A syntax theme compatible with hiperterminator ui",
+    "repository": "https://github.com/ivanhuay/terminator-syntax",
+    "license": "MIT",
+    "engines": {
+        "atom": ">0.50.0"
+    },
+    "keywords": [
+        "red",
+        "terminator",
+        "brian",
+        "hiperterminator"
+    ]
 }
