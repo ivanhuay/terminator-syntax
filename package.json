@@ -1,7 +1,7 @@
 {
   "name": "terminator-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.0.2",
   "private": false,
   "description": "A syntax theme compatible with hiperterminator ui",
   "repository": "https://github.com/ivanhuay/terminator-syntax",
